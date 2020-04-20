@@ -1,0 +1,66 @@
+-----------------------RESUME-------------------------------
+
+
+
+
+ Personal Details
+
+ First Name :- Samyak 	 Last Name :-Prajapati
+
+ Sex :-  Male
+
+ Date of Birth :-  28/10/2000
+
+ Father's Name :-  Ram Prakash
+
+ Email Address :-  181210046@nitdelhi.ac.in
+
+ Mobile Number :-  0000000000
+
+ Postal Address :-  11764
+
+ ----------------------------------------------------------------
+
+ EDUCATIONAL DETAILS
+
+ GRADUATION
+
+ Institute name :- NIT Delhi
+
+ Branch :- CSE
+
+ Semester :- 4
+
+ CGPA :- 6.74
+
+ Interest :- IoT
+
+ Skills :- Web Development
+
+ Hobbies :- Sleeping
+
+ HIGH SCHOOL
+
+ School name :- AIS
+
+ Year :- 2018
+
+ Percentage :- 79.6
+
+ INTERMEDIATE
+
+ School name :- AIS
+
+ Year :- 2016
+
+ Percentage :- 9.6
+
+ WORK EXPERIENCE
+
+ Internships :- N/A
+
+ Others :- N/A
+
+ PROJECT DETAILS
+
+ Projects Details :- Automation Bots using Python
